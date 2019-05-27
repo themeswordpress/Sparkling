@@ -72,3 +72,4 @@ deploy:
     repo: puikinsh/Sparkling
     branch: 'master'
     condition: "$DEPLOY = 1"
+    
