@@ -1,7 +1,5 @@
 <?php
 /**
- * The Sidebar widget area for static frontpage.
- *
  * @package sparkling
  */
 ?>
